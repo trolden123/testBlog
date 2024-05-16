@@ -34,6 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage":"https://trolden123.github.io/testBlog"
+    "homepage": "https://trolden123.github.io/testBlog"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
